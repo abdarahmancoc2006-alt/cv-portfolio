@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon Portfolio Data Science</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Sadiki Ramsisi</h1>
+    <p><strong>Étudiant en Data Science & Business Intelligence</strong></p>
+
+    <h2>À propos de moi</h2>
+    <p>Passionné par la Data Science, l’analyse de données et la prise de décision basée sur les données.</p>
+
+    <h2>CV</h2>
+    <p>
+        📄 <a href="cv.pdf" target="_blank">Télécharger mon CV (PDF)</a>
+    </p>
+
+    <h2>Projets</h2>
+    <ul>
+        <li>
+            <a href="https://github.com/TON_USERNAME/churn-prediction-project" target="_blank">
+                Prédiction du churn client
+            </a>
+        </li>
+    </ul>
+
+    <h2>Liens</h2>
+    <ul>
+        <li>GitHub : <a href="https://github.com/TON_USERNAME" target="_blank">Mon GitHub</a></li>
+        <li>Kaggle : <a href="https://www.kaggle.com/TON_USERNAME" target="_blank">Mon Kaggle</a></li>
+    </ul>
+</div>
+</body>
+</html>
